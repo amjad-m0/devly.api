@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Devly.API", "Devly.API\Devly.API.csproj", "{9674C7C1-DD5F-4D3A-99BA-330C6E7DCF74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9674C7C1-DD5F-4D3A-99BA-330C6E7DCF74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9674C7C1-DD5F-4D3A-99BA-330C6E7DCF74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9674C7C1-DD5F-4D3A-99BA-330C6E7DCF74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9674C7C1-DD5F-4D3A-99BA-330C6E7DCF74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FB512CE-5AC5-43E6-9D04-637BAE5F6D54}
+	EndGlobalSection
+EndGlobal

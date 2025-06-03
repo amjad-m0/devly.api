@@ -1,0 +1,6 @@
+@Devly.API_HostAddress = http://localhost:5019
+
+GET {{Devly.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
